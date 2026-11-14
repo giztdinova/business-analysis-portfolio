@@ -5,7 +5,7 @@
 по моделированию бизнес-процессов и проектированию данных.
 
 ## Проекты
-- [01. Автоматизация процесса эксплуатации средств охраны](security-systems-process) — IDEF0, BPMN
+- [01. Автоматизация процесса эксплуатации средств охраны](security-system-process) — IDEF0, BPMN
 - [02. Информационная модель и БД на SQL](information-model) — ER
 - [03. UML-модели](hr-uml) — use case, class, activity
 
